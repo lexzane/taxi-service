@@ -1,10 +1,10 @@
-# `Taxi-Service Application`
+# <span style="vertical-align: sub"><img src="src/main/resources/taxi-icon.png"></span> Taxi-Service Application <span style="vertical-align: sub"><img src="src/main/resources/taxi-icon.png"></span>
 
-### Project description:
+### <span style="vertical-align: sub"><img src="src/main/resources/description.png"></span> Project description:
 
 `Simple Web-application that supports registration, authentication and other CRUD operations`
 
-### Features:
+### <span style="vertical-align: sub"><img src="src/main/resources/features.png"></span> Features:
 
 - registration of driver
 - authentication of driver
@@ -16,7 +16,7 @@
 - display list of all manufacturers
 - display list of all cars
 
-### Structure:
+### <span style="vertical-align: sub"><img src="src/main/resources/structure.png"></span> Structure:
 
 1. `main.java` package folders:
 
@@ -34,9 +34,9 @@
 
 3. `webapp` package:
     - `WEB-INF` folder: contains all JSP pages for application
-    - `web.xlm` - settings for web application
+    - `web.xml` - settings for web application
 
-### Technologies:
+### <span style="vertical-align: sub"><img src="src/main/resources/technologies.png"></span> Technologies:
 
 - `Maven`
 - `JSP`
@@ -46,7 +46,7 @@
 - `MySQL`
 - `Tomcat`
 
-### Instructions to run the project
+### <span style="vertical-align: sub"><img src="src/main/resources/run.png"></span> Instructions to run the project
 
 - Install IDE to your PC
 - Clone the project to your IDE (e.g. IntelliJ IDEA)
